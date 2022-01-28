@@ -1,2 +1,2 @@
 # PythonPractice
-simply recording my progress :)
+simply committing my progress :)
